@@ -9,8 +9,8 @@ This repo houses some quick start 'SDKs' for SmallURL to help you get a SmallURL
 
 Whats here now?
 ===============
-SmallURL PHP SDK - Created by SmallURL
-SmallURL Python SDK - Created by sorch/theholder <support@sorch.info>
+ - SmallURL PHP SDK - Created by SmallURL
+ - SmallURL Python SDK - Created by sorch/theholder <support@sorch.info>
 
 How do I add my own?
 ====================
